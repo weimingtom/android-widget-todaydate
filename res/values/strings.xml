@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TodaysDateProvider!</string>
+    <string name="app_name">Today's Date</string>
+<string name="app_name_small">Today's Date Mini</string>
+</resources>
