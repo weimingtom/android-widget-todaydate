@@ -17,7 +17,7 @@ public class TodaysDateSmallProvider extends AppWidgetProvider {
       super.onUpdate(context, appWidgetManager, appWidgetIds);
    }
    
-   private String[] months = {"January", "Februrary", "March", "April",
+   private String[] months = {"January", "February", "March", "April",
                               "May", "June", "July", "August",
                               "September", "October", "November", "December"};
    
